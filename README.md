@@ -52,8 +52,6 @@ Assists PG owners in competitive pricing and facility upgrades.
 Provides real estate analysts with rental market trends.
 
 
-Click below to view the interactive notebook in Google Colab:
 
-[![Open In Colab]("https://colab.research.google.com/drive/1rqHcG8cHgJonK90JamU_kZHolwvTpJms?usp=sharing")
 
 
