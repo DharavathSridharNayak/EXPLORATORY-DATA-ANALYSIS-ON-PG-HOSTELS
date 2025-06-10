@@ -13,16 +13,15 @@ Explore correlations between rent, facilities (Wi-Fi, meals, AC), and location.
 
 Detect seasonal trends or demand fluctuations in bookings.
 
+
 Methodology:
 
 
 Data Cleaning: Handling missing values, outliers, and inconsistencies.
 
-Descriptive Statistics: Summarizing key metrics (avg. rent, room types).
-
 Visualizations: Interactive plots (box plots, heatmaps, bar charts) for trends.
 
-Geospatial Analysis (if applicable): Mapping PG density & price hotspots.
+
 
 Insights Generated:
 
@@ -31,7 +30,7 @@ Locality Impact: Rent variations based on proximity to universities/business hub
 
 Amenities Influence: How AC, laundry, or meals affect pricing.
 
-Occupancy Trends: Peak booking seasons and vacancy rates.
+
 
 Tools Used:
 
@@ -42,14 +41,7 @@ Visualization (Matplotlib, Seaborn, Plotly)
 
 Jupyter Notebook
 
-Applications:
 
-
-Helps students/working professionals find budget-friendly PGs.
-
-Assists PG owners in competitive pricing and facility upgrades.
-
-Provides real estate analysts with rental market trends.
 
 
 
