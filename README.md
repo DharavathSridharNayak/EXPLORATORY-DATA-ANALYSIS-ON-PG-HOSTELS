@@ -11,8 +11,6 @@ Identify most affordable vs. premium PG options based on amenities.
 
 Explore correlations between rent, facilities (Wi-Fi, meals, AC), and location.
 
-Detect seasonal trends or demand fluctuations in bookings.
-
 
 Methodology:
 
@@ -20,15 +18,6 @@ Methodology:
 Data Cleaning: Handling missing values, outliers, and inconsistencies.
 
 Visualizations: Interactive plots (box plots, heatmaps, bar charts) for trends.
-
-
-
-Insights Generated:
-
-
-Locality Impact: Rent variations based on proximity to universities/business hubs.
-
-Amenities Influence: How AC, laundry, or meals affect pricing.
 
 
 
