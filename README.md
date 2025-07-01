@@ -1,34 +1,74 @@
 🏠📊 EXPLORATORY DATA ANALYSIS ON PG (PAYING-GUEST) HOSTELS
 
-This project conducts an Exploratory Data Analysis (EDA) on Paying Guest (PG) hostels to uncover trends, pricing patterns, and key factors influencing accommodations. Using Python (Pandas, Matplotlib, Seaborn), the analysis examines location-based pricing, amenities, occupancy rates, and customer preferences to help students, professionals, and travelers make data-driven decisions.
 
-Key Objectives:
+This project performs an in-depth Exploratory Data Analysis (EDA) on PG hostels data to extract valuable insights related to pricing, amenities, locations, ratings, and more. The analysis helps in understanding market trends and making data-driven decisions for both customers and PG business owners.
 
+📌 Objective:
 
-Analyze price distribution across different localities.
+The main goal is to analyze PG hostel listings data and uncover patterns and insights related to:
+- Rent price distribution
+- Location-based availability
+- Ratings and reviews
+- Amenities offered
+- Gender-specific accommodations
+- Price vs facilities correlation
 
-Identify most affordable vs. premium PG options based on amenities.
+---
 
-Explore correlations between rent, facilities (Wi-Fi, meals, AC), and location.
+📂 Dataset
 
+Source: [Custom scraped / collected from online PG listing platforms]
+Format: CSV ("/content/PG HOSTELS DATA SET.csv")
+Features Included**:
+  - `Title`
+  - `Location`
+  - `RPrice`
+  - `Room Info`
+  - `Type`
+  - `Places`
 
-Methodology:
+---
 
+🧪 Technologies Used
 
-Data Cleaning: Handling missing values, outliers, and inconsistencies.
+| Tool/Library   | Purpose                          |
+|----------------|----------------------------------|
+| Python         | Programming Language             |
+| Pandas         | Data manipulation and cleaning   |
+| Matplotlib     | Data visualization               |
+| Seaborn        | Statistical plotting             |
+| Plotly         | Interactive visualizations       |
+| Jupyter/Colab  | Development Environment          |
 
-Visualizations: Interactive plots (box plots, heatmaps, bar charts) for trends.
+---
 
+📊 EDA Insights:
 
+- 📍 Top locations with the most PG listings
+- 💰 Price distribution by area and gender-specific PGs
+- ⭐ Most common amenities in high-rated PGs
+- 👥 Sharing types vs price comparison
+- 🧼 Heatmaps and correlation matrices of key features
 
-Tools Used:
+---
 
+📈 Key Visualizations:
 
-Python (Pandas, NumPy)
+- Bar plots (location vs count)
+- Box plots (price vs gender/type)
+- Pie charts (amenities distribution)
+- Heatmaps (correlation)
+- Line/Histogram plots (price trends)
 
-Visualization (Matplotlib, Seaborn, Plotly)
+---
 
-Jupyter Notebook
+🚀 How to Run:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<DharavathSridharNayak/EXPLORATORY-DATA-ANALYSIS-ON-PG-HOSTELS.git
+   cd EXPLORATORY-DATA-ANALYSIS-ON-PG-HOSTELS
+
 
 
 
