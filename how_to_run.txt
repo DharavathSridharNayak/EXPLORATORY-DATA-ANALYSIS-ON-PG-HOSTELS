@@ -1,0 +1,52 @@
+===============================
+HOW TO RUN: EDA on PG Hostels
+===============================
+
+📌 Requirements:
+---------------
+Make sure you have the following installed:
+- Python 3.7+
+- Jupyter Notebook or Google Colab
+- Libraries: pandas, numpy, matplotlib, seaborn, plotly
+
+You can install all required libraries by running:
+> pip install -r requirements.txt
+
+🚀 Steps to Run Locally:
+------------------------
+1. Clone the repository or download the ZIP:
+   > git clone https://github.com/DharavathSridharNayak/EDA_PG_Hostels.git
+
+2. Navigate into the project directory:
+   > cd EDA_PG_Hostels
+
+3. Launch Jupyter Notebook:
+   > jupyter notebook
+
+4. Open the file:
+   > eda_pg_hostels.ipynb
+
+5. Run all cells to explore the EDA and visualizations.
+
+☁️ Run on Google Colab (Optional):
+----------------------------------
+1. Upload `eda_pg_hostels.ipynb` and `PG_Hostels.csv` to Google Drive.
+2. Open Colab: https://colab.research.google.com/
+3. Mount your Google Drive and load the dataset.
+4. Run the notebook step by step.
+
+📁 Project Structure:
+---------------------
+EDA_PG_Hostels/
+├── eda_pg_hostels.ipynb
+├── PG_Hostels.csv
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+├── how_to_run.txt
+└── images/
+    ├── heatmap.png
+    └── price_distribution.png
+
+
