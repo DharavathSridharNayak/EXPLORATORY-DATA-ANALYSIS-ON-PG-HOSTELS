@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and logs (optional)
+*.log
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.egg-info/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Plot images
+*.png
+*.jpg
+*.jpeg
+*.gif
+images/
+plots/
+
+# Environment variables
+.env
+.env.*
+
+# VSCode Python settings
+*.code-workspace
+.settings/
+
+# Ignore model weights or large files (optional)
+*.h5
+*.pkl
+*.joblib
+
+# System files
+*.bak
+*.swp
+*~
