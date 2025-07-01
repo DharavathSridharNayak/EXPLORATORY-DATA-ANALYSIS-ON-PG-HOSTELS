@@ -1,7 +1,10 @@
 🏠📊 EXPLORATORY DATA ANALYSIS ON PG (PAYING-GUEST) HOSTELS
 
 
+
+
 This project performs an in-depth Exploratory Data Analysis (EDA) on PG hostels data to extract valuable insights related to pricing, amenities, locations, ratings, and more. The analysis helps in understanding market trends and making data-driven decisions for both customers and PG business owners.
+---------------------------------------------------------------------------------------------------------------------------------
 
 📌 Objective:
 
@@ -18,7 +21,8 @@ The main goal is to analyze PG hostel listings data and uncover patterns and ins
 📂 Dataset
 
 Source: [Custom scraped / collected from online PG listing platforms]
-Format: CSV ("/content/PG HOSTELS DATA SET.csv")
+
+Format: CSV ("PG HOSTELS DATA SET.csv")
 Features Included:
   - `Title`
   - `Location`
@@ -60,14 +64,6 @@ Features Included:
 - Heatmaps (correlation)
 - Line/Histogram plots (price trends)
 
----
-
-🚀 How to Run:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<DharavathSridharNayak/EXPLORATORY-DATA-ANALYSIS-ON-PG-HOSTELS.git
-   cd EXPLORATORY-DATA-ANALYSIS-ON-PG-HOSTELS
 
 
 
