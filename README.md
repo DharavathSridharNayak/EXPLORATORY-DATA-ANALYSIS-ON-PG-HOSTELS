@@ -26,7 +26,7 @@ Format: CSV ("PG HOSTELS DATA SET.csv")
 Features Included:
   - `Title`
   - `Location`
-  - `RPrice`
+  - `Price`
   - `Room Info`
   - `Type`
   - `Places`
