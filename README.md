@@ -65,7 +65,7 @@ Features Included:
 - Line/Histogram plots (price trends)
 ------------------------------------------------------------------------------------------------
 
-Visualizations: 
+Visualization ScreenShots 👇📷: 
 
 ![{E4E3F6F8-7074-4A7D-9022-5D8EC06F5DD8}](https://github.com/user-attachments/assets/5dcfbf25-3298-453c-8a30-7d6e95159a49)
 
