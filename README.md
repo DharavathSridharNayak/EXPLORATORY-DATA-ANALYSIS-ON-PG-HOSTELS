@@ -19,7 +19,7 @@ The main goal is to analyze PG hostel listings data and uncover patterns and ins
 
 Source: [Custom scraped / collected from online PG listing platforms]
 Format: CSV ("/content/PG HOSTELS DATA SET.csv")
-Features Included**:
+Features Included:
   - `Title`
   - `Location`
   - `RPrice`
